@@ -7,5 +7,7 @@ Yapay zeka tabanlı bu sistem, e-posta adreslerinin yapısal özelliklerini (ent
 </br>
 </br>
 EN
+</br>
+
 An AI-powered system that analyzes the structural patterns of email addresses (entropy, character distribution, etc.) to distinguish between human-generated identities and algorithmically generated (DGA) bot accounts.
 
